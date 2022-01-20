@@ -1,4 +1,4 @@
-# Getting Started hola hola hola hola
+# Getting Started hola hola hola hola hola
 
 ## Windows
 
