@@ -1,4 +1,4 @@
-# Getting Started primer cambio
+# Getting Started segundo cambio
 
 ## Windows
 
